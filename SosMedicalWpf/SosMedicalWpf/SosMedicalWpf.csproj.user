@@ -7,6 +7,30 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="DictionaryResources\DictionaryButton.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DictionaryResources\DictionaryCheckbox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DictionaryResources\DictionaryDatepicker.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DictionaryResources\DictionaryGrid.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DictionaryResources\DictionaryLabel.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DictionaryResources\DictionarySlider.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DictionaryResources\DictionaryStackpanel.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DictionaryResources\DictionaryTextbox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>

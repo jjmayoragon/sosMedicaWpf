@@ -1,19 +1,19 @@
-﻿SosMedicalWpf
-1.0.0.0
+﻿ModernUI
+
 
 winexe
 C#
 .cs
-D:\REPOS\sosMedicaWpf\SosMedicalWpf\SosMedicalWpf\obj\Debug\net5.0-windows\
-SosMedicalWpf
+D:\REPOS\sosMedicaWpf\SosMedicalWpf\ModernUI\obj\Debug\
+ModernUI
 none
 false
-TRACE;DEBUG;NET;NET5_0;NETCOREAPP
-D:\REPOS\sosMedicaWpf\SosMedicalWpf\SosMedicalWpf\App.xaml
-9-811908200
+DEBUG;TRACE
+D:\REPOS\sosMedicaWpf\SosMedicalWpf\ModernUI\App.xaml
+9510389679
 
-5456500435
-193-1891726104
+61434861427
+13-1505183044
 DictionaryResources\DictionaryButton.xaml;DictionaryResources\DictionaryCheckbox.xaml;DictionaryResources\DictionaryDatepicker.xaml;DictionaryResources\DictionaryGrid.xaml;DictionaryResources\DictionaryLabel.xaml;DictionaryResources\DictionarySlider.xaml;DictionaryResources\DictionaryStackpanel.xaml;DictionaryResources\DictionaryTextbox.xaml;MainWindow.xaml;
 
 True
