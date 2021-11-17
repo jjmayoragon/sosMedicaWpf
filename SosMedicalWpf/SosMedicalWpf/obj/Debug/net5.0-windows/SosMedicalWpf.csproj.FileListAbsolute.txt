@@ -5,6 +5,7 @@ D:\REPOS\sosMedicaWpf\SosMedicalWpf\SosMedicalWpf\bin\Debug\net5.0-windows\SosMe
 D:\REPOS\sosMedicaWpf\SosMedicalWpf\SosMedicalWpf\bin\Debug\net5.0-windows\SosMedicalWpf.dll
 D:\REPOS\sosMedicaWpf\SosMedicalWpf\SosMedicalWpf\bin\Debug\net5.0-windows\ref\SosMedicalWpf.dll
 D:\REPOS\sosMedicaWpf\SosMedicalWpf\SosMedicalWpf\bin\Debug\net5.0-windows\SosMedicalWpf.pdb
+D:\REPOS\sosMedicaWpf\SosMedicalWpf\SosMedicalWpf\obj\Debug\net5.0-windows\SosMedicalWpf.csproj.AssemblyReference.cache
 D:\REPOS\sosMedicaWpf\SosMedicalWpf\SosMedicalWpf\obj\Debug\net5.0-windows\DictionaryResources\DictionaryButton.baml
 D:\REPOS\sosMedicaWpf\SosMedicalWpf\SosMedicalWpf\obj\Debug\net5.0-windows\DictionaryResources\DictionaryCheckbox.baml
 D:\REPOS\sosMedicaWpf\SosMedicalWpf\SosMedicalWpf\obj\Debug\net5.0-windows\DictionaryResources\DictionaryDatepicker.baml
