@@ -21,3 +21,6 @@ D:\REPOS\sosMedicaWpf\SosMedicalWpf\ModernUI\obj\Debug\ModernUI.csproj.CoreCompi
 D:\REPOS\sosMedicaWpf\SosMedicalWpf\ModernUI\obj\Debug\ModernUI.exe
 D:\REPOS\sosMedicaWpf\SosMedicalWpf\ModernUI\obj\Debug\ModernUI.pdb
 D:\REPOS\sosMedicaWpf\SosMedicalWpf\ModernUI\obj\Debug\ModernUI.csproj.AssemblyReference.cache
+D:\REPOS\sosMedicaWpf\SosMedicalWpf\ModernUI\obj\Debug\DictionaryResources\DictionaryBorder.baml
+D:\REPOS\sosMedicaWpf\SosMedicalWpf\ModernUI\obj\Debug\DictionaryResources\DictionaryTextblock.baml
+D:\REPOS\sosMedicaWpf\SosMedicalWpf\ModernUI\obj\Debug\App.baml

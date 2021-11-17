@@ -4,6 +4,20 @@
              xmlns:local="clr-namespace:ModernUI"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary  Source="DictionaryResources/DictionaryButton.xaml"/>
+                <ResourceDictionary  Source="DictionaryResources/DictionaryLabel.xaml"/>
+                <ResourceDictionary  Source="DictionaryResources/DictionarySlider.xaml"/>
+                <ResourceDictionary  Source="DictionaryResources/DictionaryCheckbox.xaml"/>
+                <ResourceDictionary  Source="DictionaryResources/DictionaryGrid.xaml"/>
+                <ResourceDictionary  Source="DictionaryResources/DictionaryTextbox.xaml"/>
+                <ResourceDictionary  Source="DictionaryResources/DictionaryDatepicker.xaml"/>
+                <ResourceDictionary  Source="DictionaryResources/DictionaryBorder.xaml"/>
+                <ResourceDictionary  Source="DictionaryResources/DictionaryTextblock.xaml"/>
+                <ResourceDictionary  Source="DictionaryResources/DictionaryStackpanel.xaml"/>
+
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
     </Application.Resources>
 </Application>

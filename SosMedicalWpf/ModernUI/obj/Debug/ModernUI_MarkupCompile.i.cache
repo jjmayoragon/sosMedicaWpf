@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 D:\REPOS\sosMedicaWpf\SosMedicalWpf\ModernUI\App.xaml
-9510389679
+111396553882
 
 61434861427
 13-1505183044
-DictionaryResources\DictionaryButton.xaml;DictionaryResources\DictionaryCheckbox.xaml;DictionaryResources\DictionaryDatepicker.xaml;DictionaryResources\DictionaryGrid.xaml;DictionaryResources\DictionaryLabel.xaml;DictionaryResources\DictionarySlider.xaml;DictionaryResources\DictionaryStackpanel.xaml;DictionaryResources\DictionaryTextbox.xaml;MainWindow.xaml;
+DictionaryResources\DictionaryBorder.xaml;DictionaryResources\DictionaryButton.xaml;DictionaryResources\DictionaryCheckbox.xaml;DictionaryResources\DictionaryDatepicker.xaml;DictionaryResources\DictionaryGrid.xaml;DictionaryResources\DictionaryLabel.xaml;DictionaryResources\DictionarySlider.xaml;DictionaryResources\DictionaryStackpanel.xaml;DictionaryResources\DictionaryTextblock.xaml;DictionaryResources\DictionaryTextbox.xaml;MainWindow.xaml;
 
-True
+False
 

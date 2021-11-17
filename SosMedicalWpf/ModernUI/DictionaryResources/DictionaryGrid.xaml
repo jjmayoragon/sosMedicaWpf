@@ -1,7 +1,15 @@
 ﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-    <!--Button base style-->
+    <!--Grid base style-->
     <Style TargetType="Grid">
-        <Setter Property="Background" Value="#ff6964"/>
+        <Setter Property="Background" Value="#181735"/>
+    </Style>
+
+    <!--Grid special styles-->
+    <Style TargetType="Grid" BasedOn="{StaticResource {x:Type Grid}}" x:Key="specialBackground">
+        <Setter Property="Margin" Value="160 -365 -610 85"/>
+        <Setter Property="Grid.Row" Value="2"/>
+        <Setter Property="Grid.Column" Value="1"/>
+        <Setter Property="Panel.ZIndex" Value="-1"/>
     </Style>
 </ResourceDictionary>
